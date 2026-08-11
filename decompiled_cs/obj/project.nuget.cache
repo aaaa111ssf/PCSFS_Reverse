@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NScItA8ZZsE=",
+  "success": true,
+  "projectFilePath": "D:\\2SFS Project\\PCSFS_Reverse\\decompiled_cs\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZhuanZ1\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\ZhuanZ1\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
