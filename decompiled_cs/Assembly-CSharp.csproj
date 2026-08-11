@@ -1,0 +1,110 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>15.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Auth">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Firebase.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="com.rlabrecque.steamworks.net">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/com.rlabrecque.steamworks.net.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UniTask">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UniTask.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Firebase.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputLegacyModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.InputLegacyModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Analytics">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Firebase.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.RemoteConfig">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Firebase.RemoteConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.TaskExtension">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Firebase.TaskExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsCommonModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>PCSFS/Spaceflight Simulator Game/Spaceflight Simulator_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
